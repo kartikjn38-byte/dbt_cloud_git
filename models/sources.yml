@@ -1,0 +1,7 @@
+sources:
+  - name: demo
+    database: dbt_demo
+    schema: demo_schema
+    tables:
+      - name: zero
+      - name: bike
